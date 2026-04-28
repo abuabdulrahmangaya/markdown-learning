@@ -6,5 +6,5 @@ this repo is to show how to use markdown
 #### this is the fourth heading
 ##### this is the fifth heading
 * ahmad *
-_ ahmad _
+__ ahmad __
 ** bold text **
