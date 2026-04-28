@@ -5,3 +5,6 @@ this repo is to show how to use markdown
 ###  this is the third heading
 #### this is the fourth heading
 ##### this is the fifth heading
+* ahmad *
+_ ahmad _
+** bold text **
